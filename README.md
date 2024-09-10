@@ -22,6 +22,7 @@ Link : https://beta.data.gov.sg/collections/189/view
 
 
 **Project Workflow**
+
 The following is a fundamental outline of the project:
 
 The Resale Flat Prices dataset has five distinct CSV files, each representing a specific time period. These time periods are 1990 to 1999, 2000 to 2012, 2012 to 2014, 2015 to 2016, and 2017 onwards. Therefore, it is essential to merge the five distinct CSV files into a unified dataset.
