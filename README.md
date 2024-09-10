@@ -16,7 +16,8 @@ Python -- Programming Language
 pandas -- Python Library for Data Visualization
 numpy -- Fundamental Python package for scientific computing in Python
 streamlit -- Python framework to rapidly build and share beautiful machine learning and data science web apps
-scikit-learn -- Machine Learning library for the Python programming language
+scikit-learn -- Machine Learning library for the Python programming language.
+
 Data Source
 Link : https://beta.data.gov.sg/collections/189/view
 
@@ -35,6 +36,7 @@ The objective is to develop a Streamlit webpage that enables users to input valu
 
 
 **Using the App**
+
 Resale Price Prediction
 To predict the resale price of a Singapore Flats, follow these steps:
 
