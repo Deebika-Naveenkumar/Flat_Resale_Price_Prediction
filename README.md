@@ -51,3 +51,8 @@ Flat Type
 Flat Model
 Click the "PREDICT RESALE PRICE" button.
 The app will display the predicted resale price based on the provided information.
+
+
+**NOTE**
+
+The "combined.csv" file used in Model.ipynb was froom data_cleaning_updated file and not from data_cleaning. Refer MRT and CBD distance from data_cleaning and  "combined.csv" from data_cleaning_updated.
