@@ -8,7 +8,8 @@ This project aims to construct a machine learning model and implement it as a us
 
 **Domain :** Real Estate
 
-**Link1 :** LinkedIn Post / Working Model Video
+**Link1 :** https://www.linkedin.com/posts/activity-7239512061687308289-r_ie?utm_source=share&utm_medium=member_desktop
+
 
 **Prerequisites**
 
